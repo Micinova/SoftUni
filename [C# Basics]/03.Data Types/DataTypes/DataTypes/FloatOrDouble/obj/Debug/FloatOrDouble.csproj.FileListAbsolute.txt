@@ -1,5 +1,0 @@
-c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
-c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\FloatOrDouble\bin\Debug\FloatOrDouble.exe
-c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
-c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\FloatOrDouble\obj\Debug\FloatOrDouble.exe
-c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

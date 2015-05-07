@@ -1,6 +1,0 @@
-C:\Users\Desislava\Documents\Visual Studio 2013\Projects\DataTypes\ASCIITable\bin\Debug\ASCIITable.exe.config
-C:\Users\Desislava\Documents\Visual Studio 2013\Projects\DataTypes\ASCIITable\bin\Debug\ASCIITable.exe
-C:\Users\Desislava\Documents\Visual Studio 2013\Projects\DataTypes\ASCIITable\bin\Debug\ASCIITable.pdb
-C:\Users\Desislava\Documents\Visual Studio 2013\Projects\DataTypes\ASCIITable\obj\Debug\ASCIITable.csprojResolveAssemblyReference.cache
-C:\Users\Desislava\Documents\Visual Studio 2013\Projects\DataTypes\ASCIITable\obj\Debug\ASCIITable.exe
-C:\Users\Desislava\Documents\Visual Studio 2013\Projects\DataTypes\ASCIITable\obj\Debug\ASCIITable.pdb

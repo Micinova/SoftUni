@@ -1,5 +1,0 @@
-c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\BoolVar\bin\Debug\BoolVar.exe.config
-c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\BoolVar\bin\Debug\BoolVar.exe
-c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\BoolVar\bin\Debug\BoolVar.pdb
-c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\BoolVar\obj\Debug\BoolVar.exe
-c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\BoolVar\obj\Debug\BoolVar.pdb
