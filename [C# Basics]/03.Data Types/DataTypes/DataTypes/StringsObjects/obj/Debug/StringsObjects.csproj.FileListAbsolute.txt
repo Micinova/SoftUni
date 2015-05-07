@@ -1,0 +1,5 @@
+c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\StringsObjects\bin\Debug\StringsObjects.exe.config
+c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\StringsObjects\bin\Debug\StringsObjects.exe
+c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\StringsObjects\bin\Debug\StringsObjects.pdb
+c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\StringsObjects\obj\Debug\StringsObjects.exe
+c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\StringsObjects\obj\Debug\StringsObjects.pdb
