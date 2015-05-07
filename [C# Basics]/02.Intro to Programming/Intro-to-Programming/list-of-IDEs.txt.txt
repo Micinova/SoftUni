@@ -1,0 +1,16 @@
+				List of IDEs
+Visual Studio
+This IDE is mostly used by corporate programmers to produce .NET code. It is used to develop computer programs for Microsoft Windows superfamily of operating systems, as well as web sites, web applications and web services. Visual Studio includes a code editor supporting IntelliSense as well as code refactoring. The integrated debugger works both as a source-level debugger and a machine-level debugger. Other built-in tools include a forms designer for building GUI applications, web designer, class designer, and database schema designer. 
+
+Eclipse
+The interface is a lot cleaner and concise than Visual Studio and the languages that are possible to use extend past the .Net Framework. It contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications.
+
+NetBeans
+This is the number one alternative to Eclipse. The NetBeans Platform allows applications to be developed from a set of modular software components called modules. The NetBeans Team actively support the product and seek future suggestions from the wider community.
+
+Zeus
+Zeus is a fast and lean, fully scriptable, keyboard centric editor packed full of programmer specific features making it one of the best programmer's editor available.
+
+Borland C++
+Borland C++ is a C and C++ programming environment for MS-DOS and Microsoft Windows. It was the successor to Turbo C++, and included a better debugger, the Turbo Debugger, which was written in protected mode DOS.
+
