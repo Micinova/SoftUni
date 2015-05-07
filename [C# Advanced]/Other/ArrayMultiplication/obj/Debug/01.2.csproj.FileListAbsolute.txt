@@ -1,0 +1,6 @@
+c:\Users\Micinova\Documents\Visual Studio 2013\Projects\Ex01\01.2\bin\Debug\01.2.exe.config
+c:\Users\Micinova\Documents\Visual Studio 2013\Projects\Ex01\01.2\bin\Debug\01.2.exe
+c:\Users\Micinova\Documents\Visual Studio 2013\Projects\Ex01\01.2\bin\Debug\01.2.pdb
+c:\Users\Micinova\Documents\Visual Studio 2013\Projects\Ex01\01.2\obj\Debug\01.2.csprojResolveAssemblyReference.cache
+c:\Users\Micinova\Documents\Visual Studio 2013\Projects\Ex01\01.2\obj\Debug\01.2.exe
+c:\Users\Micinova\Documents\Visual Studio 2013\Projects\Ex01\01.2\obj\Debug\01.2.pdb

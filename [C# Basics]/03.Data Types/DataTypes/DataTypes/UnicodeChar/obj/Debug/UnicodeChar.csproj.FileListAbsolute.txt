@@ -1,0 +1,5 @@
+c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\UnicodeChar\bin\Debug\UnicodeChar.exe.config
+c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\UnicodeChar\bin\Debug\UnicodeChar.exe
+c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\UnicodeChar\bin\Debug\UnicodeChar.pdb
+c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\UnicodeChar\obj\Debug\UnicodeChar.exe
+c:\users\desislava\documents\visual studio 2013\Projects\DataTypes\UnicodeChar\obj\Debug\UnicodeChar.pdb
