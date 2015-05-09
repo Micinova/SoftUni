@@ -1,0 +1,5 @@
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\06.SubsetSums\bin\Debug\06.SubsetSums.exe.config
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\06.SubsetSums\bin\Debug\06.SubsetSums.exe
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\06.SubsetSums\bin\Debug\06.SubsetSums.pdb
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\06.SubsetSums\obj\Debug\06.SubsetSums.exe
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\06.SubsetSums\obj\Debug\06.SubsetSums.pdb

@@ -1,0 +1,6 @@
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\01.SortArray\bin\Debug\01.SortArray.exe.config
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\01.SortArray\bin\Debug\01.SortArray.exe
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\01.SortArray\bin\Debug\01.SortArray.pdb
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\01.SortArray\obj\Debug\01.SortArray.csprojResolveAssemblyReference.cache
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\01.SortArray\obj\Debug\01.SortArray.exe
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\01.SortArray\obj\Debug\01.SortArray.pdb

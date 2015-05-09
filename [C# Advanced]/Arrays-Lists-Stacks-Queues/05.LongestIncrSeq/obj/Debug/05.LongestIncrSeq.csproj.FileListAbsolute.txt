@@ -1,0 +1,6 @@
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\05.LongestIncrSeq\bin\Debug\05.LongestIncrSeq.exe.config
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\05.LongestIncrSeq\obj\Debug\05.LongestIncrSeq.csprojResolveAssemblyReference.cache
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\05.LongestIncrSeq\bin\Debug\05.LongestIncrSeq.exe
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\05.LongestIncrSeq\bin\Debug\05.LongestIncrSeq.pdb
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\05.LongestIncrSeq\obj\Debug\05.LongestIncrSeq.exe
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\05.LongestIncrSeq\obj\Debug\05.LongestIncrSeq.pdb

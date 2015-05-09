@@ -1,0 +1,6 @@
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe.config
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.pdb
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.csprojResolveAssemblyReference.cache
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.exe
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.pdb

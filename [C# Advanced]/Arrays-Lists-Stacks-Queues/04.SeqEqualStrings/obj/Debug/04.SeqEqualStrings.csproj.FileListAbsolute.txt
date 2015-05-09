@@ -1,0 +1,6 @@
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\04.SeqEqualStrings\bin\Debug\04.SeqEqualStrings.exe.config
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\04.SeqEqualStrings\bin\Debug\04.SeqEqualStrings.exe
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\04.SeqEqualStrings\bin\Debug\04.SeqEqualStrings.pdb
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\04.SeqEqualStrings\obj\Debug\04.SeqEqualStrings.csprojResolveAssemblyReference.cache
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\04.SeqEqualStrings\obj\Debug\04.SeqEqualStrings.exe
+c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\04.SeqEqualStrings\obj\Debug\04.SeqEqualStrings.pdb
