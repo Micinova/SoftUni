@@ -1,0 +1,6 @@
+C:\Users\Micinova\Documents\Visual Studio 2013\Projects\Methods\02.LastDigitNum\bin\Debug\02.LastDigitNum.exe.config
+C:\Users\Micinova\Documents\Visual Studio 2013\Projects\Methods\02.LastDigitNum\obj\Debug\02.LastDigitNum.csprojResolveAssemblyReference.cache
+C:\Users\Micinova\Documents\Visual Studio 2013\Projects\Methods\02.LastDigitNum\bin\Debug\02.LastDigitNum.exe
+C:\Users\Micinova\Documents\Visual Studio 2013\Projects\Methods\02.LastDigitNum\bin\Debug\02.LastDigitNum.pdb
+C:\Users\Micinova\Documents\Visual Studio 2013\Projects\Methods\02.LastDigitNum\obj\Debug\02.LastDigitNum.exe
+C:\Users\Micinova\Documents\Visual Studio 2013\Projects\Methods\02.LastDigitNum\obj\Debug\02.LastDigitNum.pdb

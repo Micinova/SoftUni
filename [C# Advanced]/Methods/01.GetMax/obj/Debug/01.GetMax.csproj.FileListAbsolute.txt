@@ -1,0 +1,6 @@
+C:\Users\Micinova\Documents\Visual Studio 2013\Projects\Methods\01.GetMax\bin\Debug\01.GetMax.exe.config
+C:\Users\Micinova\Documents\Visual Studio 2013\Projects\Methods\01.GetMax\bin\Debug\01.GetMax.exe
+C:\Users\Micinova\Documents\Visual Studio 2013\Projects\Methods\01.GetMax\bin\Debug\01.GetMax.pdb
+C:\Users\Micinova\Documents\Visual Studio 2013\Projects\Methods\01.GetMax\obj\Debug\01.GetMax.csprojResolveAssemblyReference.cache
+C:\Users\Micinova\Documents\Visual Studio 2013\Projects\Methods\01.GetMax\obj\Debug\01.GetMax.exe
+C:\Users\Micinova\Documents\Visual Studio 2013\Projects\Methods\01.GetMax\obj\Debug\01.GetMax.pdb

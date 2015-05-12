@@ -1,0 +1,5 @@
+C:\Users\Micinova\Documents\Visual Studio 2013\Projects\Methods\05.ReverseNum\bin\Debug\05.ReverseNum.exe.config
+C:\Users\Micinova\Documents\Visual Studio 2013\Projects\Methods\05.ReverseNum\bin\Debug\05.ReverseNum.exe
+C:\Users\Micinova\Documents\Visual Studio 2013\Projects\Methods\05.ReverseNum\bin\Debug\05.ReverseNum.pdb
+C:\Users\Micinova\Documents\Visual Studio 2013\Projects\Methods\05.ReverseNum\obj\Debug\05.ReverseNum.exe
+C:\Users\Micinova\Documents\Visual Studio 2013\Projects\Methods\05.ReverseNum\obj\Debug\05.ReverseNum.pdb
