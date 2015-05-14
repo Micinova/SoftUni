@@ -1,0 +1,1 @@
+c:\users\micinova\documents\visual studio 2013\Projects\String-Text-Processing\04.TextFilter\bin\Debug\04.TextFilter.exe.config

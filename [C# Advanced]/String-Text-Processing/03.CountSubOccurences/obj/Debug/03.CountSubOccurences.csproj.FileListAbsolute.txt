@@ -1,0 +1,6 @@
+c:\users\micinova\documents\visual studio 2013\Projects\String-Text-Processing\03.CountSubOccurences\bin\Debug\03.CountSubOccurences.exe.config
+c:\users\micinova\documents\visual studio 2013\Projects\String-Text-Processing\03.CountSubOccurences\bin\Debug\03.CountSubOccurences.exe
+c:\users\micinova\documents\visual studio 2013\Projects\String-Text-Processing\03.CountSubOccurences\bin\Debug\03.CountSubOccurences.pdb
+c:\users\micinova\documents\visual studio 2013\Projects\String-Text-Processing\03.CountSubOccurences\obj\Debug\03.CountSubOccurences.csprojResolveAssemblyReference.cache
+c:\users\micinova\documents\visual studio 2013\Projects\String-Text-Processing\03.CountSubOccurences\obj\Debug\03.CountSubOccurences.exe
+c:\users\micinova\documents\visual studio 2013\Projects\String-Text-Processing\03.CountSubOccurences\obj\Debug\03.CountSubOccurences.pdb

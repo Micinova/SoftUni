@@ -1,0 +1,1 @@
+c:\users\micinova\documents\visual studio 2013\Projects\String-Text-Processing\05.UnicodeChar\bin\Debug\05.UnicodeChar.exe.config
