@@ -1,5 +1,0 @@
-c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\02.SelectionSortArray\bin\Debug\02.SelectionSortArray.exe.config
-c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\02.SelectionSortArray\bin\Debug\02.SelectionSortArray.exe
-c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\02.SelectionSortArray\bin\Debug\02.SelectionSortArray.pdb
-c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\02.SelectionSortArray\obj\Debug\02.SelectionSortArray.exe
-c:\users\micinova\documents\visual studio 2013\Projects\Arrays-Lists-Stacks-Queues\02.SelectionSortArray\obj\Debug\02.SelectionSortArray.pdb
