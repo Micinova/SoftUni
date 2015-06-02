@@ -1,0 +1,6 @@
+c:\users\micinova\documents\visual studio 2013\Projects\CSharp Advanced Exam\02.TargetPractice\bin\Debug\02.TargetPractice.exe.config
+c:\users\micinova\documents\visual studio 2013\Projects\CSharp Advanced Exam\02.TargetPractice\bin\Debug\02.TargetPractice.exe
+c:\users\micinova\documents\visual studio 2013\Projects\CSharp Advanced Exam\02.TargetPractice\bin\Debug\02.TargetPractice.pdb
+c:\users\micinova\documents\visual studio 2013\Projects\CSharp Advanced Exam\02.TargetPractice\obj\Debug\02.TargetPractice.csprojResolveAssemblyReference.cache
+c:\users\micinova\documents\visual studio 2013\Projects\CSharp Advanced Exam\02.TargetPractice\obj\Debug\02.TargetPractice.exe
+c:\users\micinova\documents\visual studio 2013\Projects\CSharp Advanced Exam\02.TargetPractice\obj\Debug\02.TargetPractice.pdb
