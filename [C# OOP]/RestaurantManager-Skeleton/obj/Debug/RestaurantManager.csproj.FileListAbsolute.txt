@@ -1,5 +1,0 @@
-C:\Users\Micinova\Desktop\RestaurantManager-Skeleton\bin\Debug\RestaurantManager.exe
-C:\Users\Micinova\Desktop\RestaurantManager-Skeleton\bin\Debug\RestaurantManager.pdb
-C:\Users\Micinova\Desktop\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.csprojResolveAssemblyReference.cache
-C:\Users\Micinova\Desktop\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.exe
-C:\Users\Micinova\Desktop\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.pdb
